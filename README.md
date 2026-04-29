@@ -12,13 +12,13 @@ Executed comprehensive manual QA on the ChatGPT web application and mobile exper
 ## 🎯 What Was Tested
 | Module | Test Cases | Bugs Found |
 |--------|-----------:|-----------:|
-| Authentication | 7 | 1 |
-| Chat Interface | 11 | 4 |
-| Conversation Management | 7 | 2 |
-| Model Switching | 3 | 0 |
+| Authentication | 5 | 1 |
+| Chat Interface | 12 | 4 |
+| Conversation Management | 4 | 2 |
+| Model Switching | 2 | 0 |
 | Custom Instructions | 3 | 1 |
-| File Upload | 4 | 2 |
-| Mobile | 3 | 1 |
+| File Upload | 5 | 2 |
+| Mobile | 1 | 1 |
 
 ## 🔴 Critical Defects Identified
 | ID | Title | Severity |
