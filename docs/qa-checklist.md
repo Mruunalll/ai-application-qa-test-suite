@@ -22,4 +22,4 @@
 - RTM has no unmapped high-priority requirements
 - Critical defects are reviewed
 - Test summary report includes pass/fail/block counts
-- No placeholder text remains in public-facing artifacts
+- No draft notes remain in public-facing artifacts

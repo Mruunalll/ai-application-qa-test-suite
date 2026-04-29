@@ -1,5 +1,5 @@
-# 🤖 AI Application Manual QA Portfolio
-### ChatGPT — End-to-End Manual Testing
+# 🤖 AI Application Manual QA Test Suite
+### ChatGPT — Test Plan, Scenarios, Test Cases, Defects, Usability Evaluation, RTM
 
 [![Test Cases](https://img.shields.io/badge/Test%20Cases-32-blue)]()
 [![Bugs Found](https://img.shields.io/badge/Bugs%20Found-11-red)]()
@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Web%20%2B%20iOS%20%2B%20Android-green)]()
 
 ## 📌 Project Summary
-Executed comprehensive manual QA on the ChatGPT web application and mobile experiences across authentication, chat interface behaviour, conversation management, model switching, custom instructions, file uploads, and mobile-specific interactions. The project includes AI-specific testing strategy, usability evaluation, and security-minded input validation observations.
+Executed comprehensive manual QA on the ChatGPT web application and mobile experiences and documented the complete QA artifact set: test plan, high-level scenarios, manual test cases, defect reports, exploratory charters, usability evaluation, requirements traceability matrix, and final test summary report. Coverage includes authentication, chat interface behaviour, conversation management, model switching, custom instructions, file uploads, and mobile-specific interactions.
 
 ## 🎯 What Was Tested
 | Module | Test Cases | Bugs Found |
