@@ -62,5 +62,10 @@ Executed comprehensive manual QA on the ChatGPT web application and mobile exper
 | Postman | Manual API response structure verification |
 | Notion | Exploratory session notes |
 
+## 🔗 See Also
+- [E-Commerce QA Suite](https://github.com/Mruunalll/ecommerce-manual-qa-test-suite)
+- [WordPress Astra QA Suite](https://github.com/Mruunalll/wordpress-astra-qa-test-suite)
+- [SureForms Plugin QA + Automation](https://github.com/Mruunalll/SureForms-Plugin-Test-Suite-Manual-Automation)
+
 ## 👤 Author
 **Mrunal** | Manual QA Engineer | [GitHub](https://github.com/Mruunalll)
